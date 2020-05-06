@@ -1,0 +1,17 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "A simple random quote generator madde with nodejs and express.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "express-handlebars": "4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
